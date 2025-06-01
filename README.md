@@ -5,6 +5,7 @@ This is for developing interactive mathematics widgets/courses.
 Manim related courses can be found in Manin branch and there are two key ingridients:
 - Manim
 - LaTex
+
 P5js related widgets are placed under the main branch.
 
 The production process for manin is as follows:
