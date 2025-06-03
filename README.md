@@ -17,3 +17,11 @@ The production process for manin is as follows:
 6. Synthesize video and audio
 
 The p5js is created with various LLMs and revised after several times.
+
+## Tests
+
+To verify utility functions, run the included test file with Node:
+
+```bash
+node test/parseCSV.test.js
+```
