@@ -9,7 +9,7 @@ Manim related courses can be found in Manin branch and there are two key ingridi
 P5js related widgets are placed under the main branch.
 
 The production process for manin is as follows:
-1. Chooes a topic
+1. Choose a topic
 2. Write the synopsis
 3. Write the scripts
 4. Implement with Manim
