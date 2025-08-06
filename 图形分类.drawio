@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="第 1 页" id="GhT2BDbw3F0csmw8JsiJ">
+    <mxGraphModel dx="786" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-9" value="是" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.008;entryY=1.077;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="238" y="186" as="sourcePoint" />
+            <mxPoint x="299.28" y="119.00199999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-11" value="是" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=1;entryY=1.038;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="QPKMzPmmPl-GjUIlmzBM-12" target="QPKMzPmmPl-GjUIlmzBM-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-12" value="多边形" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="188" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-13" value="边数：大于等于 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QPKMzPmmPl-GjUIlmzBM-12">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-20" value="平面图形" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="67" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-21" value="住在二维平面上" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QPKMzPmmPl-GjUIlmzBM-20">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-24" value="圆形" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="188" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-25" value="边不是直线" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QPKMzPmmPl-GjUIlmzBM-24">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-27" value="三角形" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-28" value="边数：等于 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QPKMzPmmPl-GjUIlmzBM-27">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-29" value="四边形" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="279" width="160" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-30" value="边数：等于 4" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="QPKMzPmmPl-GjUIlmzBM-29">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-31" value="是" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.404;entryY=1.064;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="QPKMzPmmPl-GjUIlmzBM-13">
+          <mxGeometry x="-0.0581" y="3" width="160" relative="1" as="geometry">
+            <mxPoint x="442.11090166509575" y="281" as="sourcePoint" />
+            <mxPoint x="443.72" y="243.34000000000003" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QPKMzPmmPl-GjUIlmzBM-32" value="是" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.563;entryY=1.385;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="QPKMzPmmPl-GjUIlmzBM-29" target="QPKMzPmmPl-GjUIlmzBM-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="690" y="328" as="sourcePoint" />
+            <mxPoint x="630" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
